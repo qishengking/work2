@@ -333,7 +333,7 @@
       <updated>1552026184707</updated>
       <workItem from="1552026189949" duration="4234000" />
       <workItem from="1552030788396" duration="3713000" />
-      <workItem from="1552125405101" duration="5712000" />
+      <workItem from="1552125405101" duration="6141000" />
     </task>
     <task id="LOCAL-00001" summary="测试下上传作业">
       <created>1552027308008</created>
@@ -367,11 +367,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13659000" />
+    <option name="totallyTimeSpent" value="14088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="951" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
