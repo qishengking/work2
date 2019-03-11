@@ -18,20 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LazyInnerClassSingleton.puml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/gupao/singleton/uml/LazyInnerClassSingleton.puml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LazyInnerClassSingleton.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LazyInnerClassSingleton.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/gupao/singleton/singleClass/lazy/LazyInnerClassSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="24" column="61" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="61" />
+            <state relative-caret-position="332">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -104,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/com/gupao/singleton/singleClass/lazy/LazyDoubleCheckSingleton.java" />
         <option value="$PROJECT_DIR$/src/com/gupao/singleton/test/LazyInnerClassSingletonTest.java" />
         <option value="$PROJECT_DIR$/src/com/gupao/singleton/uml/LazyInnerClassSingleton.puml" />
+        <option value="$PROJECT_DIR$/src/com/gupao/singleton/singleClass/lazy/LazyInnerClassSingleton.java" />
       </list>
     </option>
   </component>
@@ -154,42 +146,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="gupao" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gupaohomework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gupaohomework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="gupao" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gupaohomework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gupaohomework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="gupao" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="singleClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gupaohomework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gupaohomework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="gupao" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="singleClass" type="462c0819:PsiDirectoryNode" />
-              <item name="lazy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gupaohomework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gupaohomework" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="gupao" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -203,6 +159,9 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/gupao/singleton/uml" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/gupao/singleton" />
       <recent name="$PROJECT_DIR$/src/com/gupao/singleton/singleClass" />
@@ -291,7 +250,7 @@
       <workItem from="1552229687426" duration="1482000" />
       <workItem from="1552282457306" duration="718000" />
       <workItem from="1552283194312" duration="691000" />
-      <workItem from="1552286148169" duration="2506000" />
+      <workItem from="1552286148169" duration="3209000" />
     </task>
     <task id="LOCAL-00001" summary="测试下上传作业">
       <created>1552027308008</created>
@@ -325,12 +284,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19485000" />
+    <option name="totallyTimeSpent" value="20188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="951" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="PlantUML" order="3" visible="true" weight="0.3297619" />
+      <window_info anchor="right" id="PlantUML" order="3" weight="0.3297619" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -341,12 +301,12 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32865733" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295325" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3295325" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.33067274" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33067274" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -750,17 +710,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gupao/singleton/singleClass/lazy/LazyInnerClassSingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="24" column="61" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gupao/singleton/uml/LazyInnerClassSingleton.puml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gupao/singleton/singleClass/lazy/LazyInnerClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
     </entry>
