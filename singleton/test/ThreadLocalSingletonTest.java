@@ -1,6 +1,7 @@
 package com.gupao.singleton.test;
 
-import com.gupaoedu.vip.pattern.singleton.threadlocal.ThreadLocalSingleton;
+
+import com.gupao.singleton.singleClass.threadlocal.ThreadLocalSingleton;
 
 /**
  * Created by Tom.

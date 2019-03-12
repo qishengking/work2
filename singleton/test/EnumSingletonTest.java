@@ -1,6 +1,5 @@
 package com.gupao.singleton.test;
 
-import com.gupaoedu.vip.pattern.singleton.register.EnumSingleton;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

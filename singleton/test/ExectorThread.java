@@ -1,7 +1,7 @@
 package com.gupao.singleton.test;
 
-import com.gupaoedu.vip.pattern.singleton.lazy.LazySimpleSingleton;
-import com.gupaoedu.vip.pattern.singleton.threadlocal.ThreadLocalSingleton;
+
+import com.gupao.singleton.singleClass.lazy.LazySimpleSingleton;
 
 /**
  * Created by Tom.

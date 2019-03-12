@@ -1,6 +1,6 @@
 package com.gupao.singleton.test;
 
-import com.gupaoedu.vip.pattern.singleton.register.ContainerSingleton;
+import com.gupao.singleton.singleClass.register.ContainerSingleton;
 
 /**
  * Created by Tom.

@@ -1,6 +1,7 @@
 package com.gupao.singleton.test;
 
-import com.gupaoedu.vip.pattern.singleton.seriable.SeriableSingleton;
+
+import com.gupao.singleton.singleClass.seriable.SeriableSingleton;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
