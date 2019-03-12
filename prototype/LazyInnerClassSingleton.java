@@ -16,7 +16,7 @@ public class LazyInnerClassSingleton implements Cloneable{
 
 
     public static final LazyInnerClassSingleton getInstance(){
-        //在返回结果以前，一定会先加载内部类
+        //在返回结果以前，一定会先加载内部类1
         return LazyHolder.LAZY;
     }
 
